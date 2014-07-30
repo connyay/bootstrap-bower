@@ -4,5 +4,6 @@
     },
     "name": "angular-bootstrap",
     "version": "0.11.1",
-    "main": ["./ui-bootstrap-tpls.js"]
+    "main": ["./ui-bootstrap-tpls.js"],
+    "ignore": []
 }
